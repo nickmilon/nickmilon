@@ -1,6 +1,6 @@
 {
   "name": "nickmilon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "personal containing gi profile in readme.md etc",
   "main": "index.js",
   "scripts": {
