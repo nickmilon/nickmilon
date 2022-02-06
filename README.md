@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-   &nbsp;<a href="https://gaengine.blogspot.com/"><img src="./resources/images/geognos.jpg" alt="my blog" height=14 target= "_blank">&nbsp;&nbsp; visit my blog</a>
+
+ 
 <!--
 **nickmilon/nickmilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

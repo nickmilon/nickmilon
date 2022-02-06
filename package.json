@@ -1,0 +1,23 @@
+{
+  "name": "nickmilon",
+  "version": "1.0.0",
+  "description": "personal containing gi profile in readme.md etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmilon/nickmilon.git"
+  },
+  "keywords": [
+    "personal",
+    "private"
+  ],
+  "author": "@nickmilon <nickmilon@gmail.com> (https://github.com/nickmilon)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nickmilon/nickmilon/issues"
+  },
+  "homepage": "https://github.com/nickmilon/nickmilon#readme"
+}
